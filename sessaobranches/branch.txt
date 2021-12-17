@@ -1,3 +1,5 @@
 Primeira linha <- inicio na branch master
 
-segunda linha <- esta linha nasceu no commit 1 da nova-branch
+segunda linha <- esta linha nasceu no commit2 da nova-branch
+
+terceira linha <- esta linha nasceu no commit3 da branch2
