@@ -1,4 +1,7 @@
-Primeira linha <- inicio na branch master
+Primeira linha <- inicio na branch master lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum  
 
 segunda linha <- esta linha nasceu no commit2 da nova-branch
 
