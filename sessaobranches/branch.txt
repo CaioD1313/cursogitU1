@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Primeira linha <- inicio na branch master Ipsum Lorem
 Ipsum Lorem
 Ipsum Lorem
+=======
+Primeira linha <- inicio na branch master lorem ipsum
+lorem ipsum
+lorem ipsum
+lorem ipsum  
+
+>>>>>>> branchfinal
 segunda linha <- esta linha nasceu no commit2 da nova-branch
 Ipsum Lorem
 terceira linha <- esta linha nasceu no commit3 da branch2
