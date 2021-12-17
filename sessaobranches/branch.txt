@@ -1,5 +1,7 @@
-Primeira linha <- inicio na branch master
-
+Primeira linha <- inicio na branch master Ipsum Lorem
+Ipsum Lorem
+Ipsum Lorem
 segunda linha <- esta linha nasceu no commit2 da nova-branch
-
+Ipsum Lorem
 terceira linha <- esta linha nasceu no commit3 da branch2
+Ipsum Lorem
